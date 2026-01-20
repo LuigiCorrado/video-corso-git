@@ -7,3 +7,4 @@ uno dei miei piatti preferiti della cucina italiana!
 * sugo
 * mozzarella
 * carne
+* carne umana
